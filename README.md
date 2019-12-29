@@ -1,6 +1,16 @@
 
 # Implement a Planning Search
 
+## Project Summary
+The goal of this project is to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent. Multiple algorithms have been used and compared for their performance, including depth-first search (DFS), breadth-first search (BFS) and A* search with automatic heuristics.
+
+Planning and search has always been an important field in AI, along with other fields like computer vision, natural language processing, robotics, etc. In this project, I have also completed a research review to highlight three important historical developments in the field of AI planning and search:
+- Stanford Research Institute Problem Solver (STRIPS) (Fikes and Nilsson, 1971)
+- Action Description Language (ADL) (Pednault, 1986)
+- Problem Domain Description Language (PDDL) (Ghallab et al., 1998)
+
+---
+
 ## Synopsis
 
 This project includes skeletons for the classes and functions needed to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent. 
